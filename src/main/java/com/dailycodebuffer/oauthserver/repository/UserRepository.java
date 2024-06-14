@@ -1,4 +1,4 @@
-package com.dailycodebuffer.oauthserver.controller.repository;
+package com.dailycodebuffer.oauthserver.repository;
 
 import com.dailycodebuffer.oauthserver.Entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
